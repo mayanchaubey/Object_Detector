@@ -19,7 +19,3 @@ runs/
 # OS
 .DS_Store
 Thumbs.db
-
-# Project outputs
-output/
-input/
